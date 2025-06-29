@@ -101,7 +101,7 @@ h3 {
 }
 
 #formulario input {
-    width: 40%;
+    width: 90%;
     background-color: rgb(221, 230, 237);
 }
 
@@ -110,7 +110,7 @@ h3 {
 }
 
 #formulario textarea {
-    width: 50%;
+    width: 90%;
     background-color: rgb(221, 230, 237);
 }
 
